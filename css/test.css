@@ -1,5 +1,5 @@
 body{
-	background-color: palegreen;
+	background-color: red;
 }
 h1{font-size: 30px;
 	color: teal;
@@ -19,6 +19,9 @@ h2{font-size: 25px;
 
 .big.uppercase{
 	color: fuchsia;
+}
+.small{
+	font-size: 20px;
 }
 h1 span{
 	color: lawngreen;
